@@ -1,0 +1,127 @@
+/*navbar*/
+menu{
+	list-style-type: none;
+ 	overflow: auto;
+ 	padding: 0;
+ 	background-color: #ffe6ea;
+ 	border-radius: 12px;
+ 	display:inline-block;
+ 	vertical-align:top;
+ 	margin-top: 3%;
+ 	margin-left: 2%;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	display: block;
+  	color: #666;
+  	text-align: center;
+  	padding: 14px 16px;
+  	text-decoration: none;
+  	font-family: 'Comfortaa', Verdana, Geneva, sans-serif;
+  	color: #666699;
+}
+
+li a:hover{
+	color: #b3b3ff;
+}
+
+li a.home{
+	color: #3d3d5c;
+	background-color: #ffccd5;
+	border-radius: 12px;
+}
+
+li a.home:hover{
+	color: #7f7fe6;
+}
+
+/*strawberry bunny home icon*/
+.logo img{
+	float:left;
+	margin-left:2%;
+}
+
+/*about me bio*/
+#intro{
+	text-align: left;
+	margin-top: 5.5%;
+	margin-left: 45%;
+	margin-right: 30%;
+	font-family: 'Comfortaa', Verdana, Geneva, sans-serif;
+	letter-spacing: 2px;
+	line-height: 200%;
+	font-size: 90%;
+}
+
+/*copyright footer*/
+#copyright{
+	margin-left: 15%;
+	font-family: 'Comfortaa', Verdana, Geneva, sans-serif;
+	margin-bottom: 3%;
+	font-size: 70%;
+	color: gray;
+	position: absolute;
+}
+
+/*font awesome icons*/
+#icons{
+	margin-top: -3.4%;
+	margin-left: 85%;
+}
+
+span{
+	margin-right: 10%;
+}
+
+.icons-pink{
+	color: #ffccd5;
+}
+
+/*about me header*/
+h4{
+	padding-bottom: 3.5%;
+}
+
+/*photograph*/
+#me{
+	position:relative;
+	margin-top: -29.5%;
+	margin-left: 20%;
+	margin-right: 62.6%;
+	border: 5px solid pink;
+	margin-bottom: 12%;
+}
+
+/*image gallery*/
+.album{
+	margin-top: 5%;
+	margin-left: 5.5%;
+	margin-right: 5.5%;
+	margin-bottom: 1.5%;
+	position:relative;
+}
+
+.album2{
+	margin-top: -42.5%;
+	margin-left: 46%;
+	margin-bottom: 2%;
+}
+
+.bg{
+	margin-bottom: 21%;
+}
+
+.graphdes{
+	margin-left:1%;
+	margin-right: 2%;
+	margin-bottom: 2%;
+	display: inline-block;
+}
+
+#poster{
+	margin-left: 12%;
+}
